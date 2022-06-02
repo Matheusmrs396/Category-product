@@ -28,8 +28,14 @@
   "products": [
     {
       "id": 1,
+      "description": "ddsvdvv",
       "name": "Top Gun",
-      "categoryId": 3
+      "categoryId": "5"
+    },
+    {
+      "name": "adcdcsdc",
+      "categoryId": "scdcsdc",
+      "id": 2
     }
   ]
 }
